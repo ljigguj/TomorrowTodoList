@@ -1,5 +1,6 @@
 nodejs开发的vibecoding项目
 用于懒癌患者的明日规划，其中重要事项可置顶
+<img width="784" height="615" alt="image" src="https://github.com/user-attachments/assets/20086ae3-d280-4007-b617-0ea2f2c60508" />
 
 React + Vite
 
